@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0930DFC827CBC46300CEDDEC /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0930DFC727CBC46300CEDDEC /* CommentCell.swift */; };
 		0951056027BDAA5800BB08BB /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0951055F27BDAA5800BB08BB /* LoginViewController.swift */; };
 		0951056327BDAA6600BB08BB /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0951056227BDAA6600BB08BB /* FeedViewController.swift */; };
 		09EED17927BFE55500150CAD /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09EED17827BFE55500150CAD /* CameraViewController.swift */; };
@@ -20,6 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0930DFC727CBC46300CEDDEC /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 		0951055F27BDAA5800BB08BB /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		0951056227BDAA6600BB08BB /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
 		09EED17827BFE55500150CAD /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
@@ -72,6 +74,7 @@
 				09F1724027BDA69B005A071B /* AppDelegate.swift */,
 				09F1724227BDA69B005A071B /* SceneDelegate.swift */,
 				09F1724627BDA69B005A071B /* Main.storyboard */,
+				0930DFC727CBC46300CEDDEC /* CommentCell.swift */,
 				09EED17B27BFF00300150CAD /* PostCell.swift */,
 				09EED17827BFE55500150CAD /* CameraViewController.swift */,
 				09F1724927BDA69D005A071B /* Assets.xcassets */,
@@ -220,6 +223,7 @@
 				0951056327BDAA6600BB08BB /* FeedViewController.swift in Sources */,
 				09F1724327BDA69B005A071B /* SceneDelegate.swift in Sources */,
 				09EED17C27BFF00300150CAD /* PostCell.swift in Sources */,
+				0930DFC827CBC46300CEDDEC /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
